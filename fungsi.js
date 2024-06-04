@@ -10,3 +10,4 @@ console.log(multiply(4,2));
 const devide = (a, b) => a / b;
 console.log(devide(4,2));
 
+console.log(add(6,4));
